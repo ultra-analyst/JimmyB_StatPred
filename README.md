@@ -1,4 +1,5 @@
 Predicting Jimmy Butler's Season Averages: Lets Go Heat!!
+
 As a die-hard Miami Heat fan, I set out to create a project that combines my love for basketball with data science. Jimmy Butler, the best player on the team, plays a crucial role in the Heat's performance. By predicting his season averages, we can get valuable insights into how the team is likely to perform.
 
 Project Overview
